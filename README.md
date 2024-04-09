@@ -2,6 +2,9 @@
 
 We have a dataset with images possibly belong to multiple classes, therefore we aim to do a multi label image classification model
 
+You can download the images from the dataset at:
+https://www.kaggle.com/datasets/meherunnesashraboni/multi-label-image-classification-dataset
+
 To install the project you need to install miniconda locally then you need to do the following actions:
 
 minicoda source: https://docs.anaconda.com/free/miniconda/miniconda-install
