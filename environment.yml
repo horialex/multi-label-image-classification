@@ -1,0 +1,14 @@
+name: image-classification-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - conda-forge::jupyterlab
+  - pandas
+  - Pillow
+  - tensorflow
+  - scikit-learn
+  - matplotlib
+  - conda-forge::opencv
+  - seaborn

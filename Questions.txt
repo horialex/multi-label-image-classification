@@ -1,0 +1,12 @@
+We want to make a multi label classification. We have images with multiple labels assigned to them.
+Dataset:
+https://www.kaggle.com/datasets/meherunnesashraboni/multi-label-image-classification-dataset
+
+
+We have 6 classes of images spread in 6 folders and we have 6 types of items:
+-carboard
+-glass
+-metal
+-paper
+-plastic
+-trash
