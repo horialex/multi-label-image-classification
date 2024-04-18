@@ -1,7 +1,10 @@
 We want to make a multi label classification. We have images with multiple labels assigned to them.
-Dataset:
+
+1. Instruments-Vehicles Dataset:
 https://www.kaggle.com/datasets/meherunnesashraboni/multi-label-image-classification-dataset
 
+2. Face obstruction Dataset:
+https://www.kaggle.com/datasets/janwidziski/face-obstructions/code
 
 We have 6 classes of images spread in 6 folders and we have 6 types of items:
 -carboard

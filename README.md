@@ -1,5 +1,18 @@
 ## Multi label image classification - Instruments and Vechicle images
 
+**Datasets**
+
+1. Instruments-Vehicles Dataset:
+https://www.kaggle.com/datasets/meherunnesashraboni/multi-label-image-classification-dataset
+
+2. Face obstruction Dataset:
+https://www.kaggle.com/datasets/janwidziski/face-obstructions/code
+
+
+
+We have 2 datsets in this repository, both multi-labeled one is about face iamges and the other is from another dataset that has images about:
+musical instruments and vehicles. We focused on the face images dataset since the other one was very twisted
+
 We have a dataset with images possibly belong to multiple classes, therefore we aim to do a multi label image classification model
 
 You can download the images from the dataset at:
